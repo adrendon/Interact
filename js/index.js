@@ -42,7 +42,7 @@ riot.tag('todo', '<div class="add" onclick="{ showAdd }"><i class="fa fa-plus"><
 })
 
 riot.mount('todo', {
-  title: "Tareas - Paso a Producción - Pipelines",
+  title: "Tareas - Interact",
   items: [
     { title: 'Creación Html - Ofertas', done: false },
     { title: 'Html, Imagenes en Portal', done: false },
